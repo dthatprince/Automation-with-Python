@@ -1,0 +1,12 @@
+
+
+1. Automate File, Folder, and Terminal Interactions
+Using Python for file automation(Viewed)
+
+How to read files
+
+How to write files
+
+Executing terminal commands
+
+Organizing directories

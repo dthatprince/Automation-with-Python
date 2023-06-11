@@ -1,0 +1,12 @@
+
+4. Automating with APIs
+Understanding API calls(In progress)
+
+Creating API requests
+
+Parsing through JSON
+
+Using API keys
+
+Linking API calls
+

@@ -1,0 +1,18 @@
+
+2. Web Scraping with Beautiful Soup
+
+Creating a request and parsing
+
+Exploring HTML structure
+
+How to isolate data
+
+Preparing for paginated scraping
+
+Scraping paginated content
+
+
+requirements:
+pip install requests
+pip install lxml
+pip install beatifulsoup4

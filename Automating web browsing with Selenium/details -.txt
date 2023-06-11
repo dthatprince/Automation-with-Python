@@ -1,0 +1,18 @@
+3. Automate Web Browsing with Selenium
+
+Automating web browsing
+
+Basic browser interactions
+
+Handling drag and drop
+
+Selenium wait functions
+
+Selenium explicit wait functions
+
+
+
+
+pip install selenium
+chrome driver
+gecko driver
